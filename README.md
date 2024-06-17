@@ -1,8 +1,8 @@
 ## Hi 👋
 
-I am currently a full-time Software Engineer. My interests include frontend & backend development, mobile development, computer vision, machine learning, data science and 2D & 3D drawing. You can know more about me by visiting [my personal website](https://leohung.herokuapp.com/) and [Linkedin](https://www.linkedin.com/in/leo-hung-6b13521ab/).
+I am Leo, currently a full-time Software Engineer. My interests include frontend & backend development, mobile development, computer vision, machine learning, data science and 2D & 3D drawing. You can know more about me by visiting [my personal website](https://leohung.herokuapp.com/) and [Linkedin](https://www.linkedin.com/in/leo-hung-6b13521ab/).
 
-## My favour tech stacks🧑‍💻
+## My Favour Tech Stacks 🧑‍💻
 - **Programming Language**: Go, Node.js, JavaScript, Python, Dart, Java, C++
 - **Database**: PostgreSQL, MongoDB, AWS DynamoDB, Google Data Studio, InfluxDB, Redis
 - **Machine Learning**: Scikit-Learn, PyTorch, Tensorflow
