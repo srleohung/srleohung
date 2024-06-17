@@ -14,8 +14,7 @@ I am Leo, currently a full-time Software Engineer. My interests include frontend
 - **CI/CD**: CircleCI, Travis-CI, GitHub Actions
 - **Drawing Software**: Blender, Procreate
 
-[![](https://raw.githubusercontent.com/srleohung/github-stats/master/generated/overview.svg#gh-dark-mode-only)](https://github.com/srleohung)
-[![](https://raw.githubusercontent.com/srleohung/github-stats/master/generated/overview.svg#gh-light-mode-only)](https://github.com/srleohung)
-[![](https://raw.githubusercontent.com/srleohung/github-stats/master/generated/languages.svg#gh-dark-mode-only)](https://github.com/srleohung)
-[![](https://raw.githubusercontent.com/srleohung/github-stats/master/generated/languages.svg#gh-light-mode-only)](https://github.com/srleohung)
-
+![](https://raw.githubusercontent.com/srleohung/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/srleohung/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/srleohung/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/srleohung/github-stats/master/generated/languages.svg#gh-light-mode-only)
